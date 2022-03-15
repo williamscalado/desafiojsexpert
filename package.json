@@ -1,0 +1,21 @@
+{
+  "name": "desafiojsexpert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/williamscalado/desafiojsexpert.git",
+  "author": "Williams Calado <williamscalado@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server/index.js",
+    "live-reload": "nodemon server/index.js",
+    "teste": ""
+  },
+  "engines": {
+    "node": "17"
+  },
+  "dependencies": {
+    "pino": "7.8.0",
+    "pino-pretty": "^7.5.3"
+  }
+}
