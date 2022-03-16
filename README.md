@@ -2,6 +2,7 @@
 
 ## Checklist Features
 
+
 - Web API
     - [ ] Deve atingir 100% de cobertura de código em testes
     - [ ] Deve ter testes de integração validando todas as rotas da API

@@ -1,5 +1,5 @@
 import fs from 'fs'
-import fsPromises from 'fs/promises'
+const fsPromises = fs.promises;
 import {
     join,
     extname
